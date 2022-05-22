@@ -1,8 +1,8 @@
 <h1>Daniel Grezzi Lima</h1>
 <div>
   <a href="https://github.com/dgrezzi/">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=dgrezzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgrezzi&langs_count=8&count_private=true&theme=dracula"/></a>
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=dgrezzi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgrezzi&langs_count=8&count_private=true&theme=nord"/></a>
 </div>
 <div style="">
      <a href="https://github.com/dgrezzi/">
