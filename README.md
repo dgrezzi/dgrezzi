@@ -5,13 +5,14 @@
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgrezzi&langs_count=8&count_private=true&theme=nord"/></a>
 </div>
 <div style="">
-     <a href="https://github.com/dgrezzi/">
-     <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio">
-     <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino">
-     <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi">
-     <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
-     <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
-<!-- <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java Script"> --></a>
+      <a href="https://github.com/dgrezzi/">
+       <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio">
+       <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino">
+       <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi">
+       <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
+       <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
+       <img height=48 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java Script">
+     </a>
 </div>
 <hr/>
 <div>
