@@ -4,7 +4,6 @@
 
 * {
     font-family: 'Work Sans', sans-serif;
-
     /* border: 1px solid black; */
 }
 
@@ -50,12 +49,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    width: 100%;
+    width: 100vw;
 }
 
 .title {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: baseline;
     font-weight: bold;
     flex-wrap: wrap;
@@ -68,7 +67,7 @@ body {
 .title p {
     font-size: 1.2rem;
     white-space: nowrap;
-    padding-left: 2rem;
+    padding-left: 1rem;
 }
 
 .logo {
@@ -216,11 +215,10 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    height: 10rem;
+    min-height: 10rem;
     width: 100%;
     padding-inline: 3rem;
     border-top: 2px solid var(--var_div);
-    flex-wrap: wrap;
 }
 
 footer h2 {
@@ -234,7 +232,6 @@ footer h2 {
 
 h2 img {
     margin: 10px 10px 10px 0;
-
 }
 
 footer div {
@@ -264,7 +261,7 @@ footer h2 {
     margin-bottom: 0.5rem;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 750px) {
     .header {
         padding: 0 1rem;
         flex-direction: column;
@@ -273,9 +270,14 @@ footer h2 {
     .title {
         justify-content: center;
         align-items: center;
+        flex-direction: column;
     }
 
     .title p {
         padding-left: 0;
+    }
+
+    footer {
+        flex-direction: column;
     }
 }
