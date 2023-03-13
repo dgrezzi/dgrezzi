@@ -1,9 +1,9 @@
 @import url(./reset.css);
 
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital@0;1&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital@0;1&display=swap");
 
 * {
-    font-family: 'Work Sans', sans-serif;
+    font-family: "Work Sans", sans-serif;
     /* border: 1px solid black; */
 }
 
@@ -18,7 +18,7 @@
     --var_c_txt: white;
     --var_txt: gray;
     --var_div: #aaa;
-    --time: 300ms
+    --time: 500ms;
 }
 
 body {
@@ -40,7 +40,6 @@ body {
     height: 100%;
     width: 100%;
     object-fit: cover;
-
 }
 
 /* Header */
@@ -48,8 +47,10 @@ body {
 .header {
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    width: 100vw;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
 }
 
 .title {
@@ -100,7 +101,6 @@ body {
     color: black;
     border-bottom: 2px solid transparent;
     white-space: nowrap;
-
 }
 
 .menu p:hover {
@@ -113,7 +113,9 @@ body {
 .container {
     display: flex;
     width: 100%;
-    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-around;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -125,8 +127,8 @@ body {
     height: 300px;
     object-fit: cover;
     border-radius: 300px;
-    margin: 5rem;
-    border: 2px solid var(--var_c1)
+    border: 2px solid var(--var_c1);
+    margin: 2rem 1rem 2rem 1rem;
 }
 
 .description {
@@ -135,8 +137,7 @@ body {
     justify-content: space-between;
     width: 500px;
     text-align: justify;
-    margin: 2rem 0 3rem 0;
-    padding: 0 20px 0 20px;
+    margin: 2rem 1rem 2rem 1rem;
 }
 
 .indent {
@@ -178,7 +179,6 @@ body {
     border-width: 3x;
     border-style: solid;
     color: var(--var_c_txt);
-
 }
 
 .menu-circle p:hover {
@@ -214,11 +214,12 @@ body {
 footer {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     min-height: 10rem;
     width: 100%;
-    padding-inline: 3rem;
+    max-width: 1200px;
     border-top: 2px solid var(--var_div);
+    margin: auto;
 }
 
 footer h2 {
