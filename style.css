@@ -283,4 +283,9 @@ footer h2 {
     footer {
         flex-direction: column;
     }
+    footer div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
