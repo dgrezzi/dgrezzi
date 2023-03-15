@@ -51,6 +51,7 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: auto;
+    padding: 0 1rem 0 1rem;
 }
 
 .title {
@@ -220,6 +221,7 @@ footer {
     max-width: 1200px;
     border-top: 2px solid var(--var_div);
     margin: auto;
+    padding: 0 1rem 0 1rem;
 }
 
 footer h2 {
