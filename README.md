@@ -13,7 +13,7 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
   <a href="https://www.microsoft.com/en-us/windows?wa=wsignin1.0">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
-  <a href="https://www.raspberrypi.org/">
+  <a href="https://www.raspberrypi.com/">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>
   <a href="https://firebase.google.com/?hl=pt-br">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /></a>
