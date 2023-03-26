@@ -47,6 +47,11 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://reactnative.dev/">
     <img height="40" src="https://reactnative.dev/img/header_logo.svg"/></a>
+  <a href="https://nextjs.org/">
+    <svg height="40" viewBox="0 0 128 128">
+      <path fill="#666" d="M64 0C28.7 0 0 28.7 0 64s28.7 64 64 64 64-28.7 64-64S99.3 0 64 0zm32.7 114.4L48.4 41.8h-6.8v50.1h6.8V55.3l44.2 61.5c-8.5 4.6-18.2 7.2-28.6 7.2-33.2.1-60.1-26.8-60.1-60S30.8 3.9 64 3.9s60.1 26.9 60.1 60.1c0 21.1-10.9 39.7-27.4 50.4z"/>
+      <path fill="#666" d="M78.6 73.3l7.5 11.3V41.8h-7.5z"/>
+    </svg></a>
   <a href="https://nodejs.org/">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 </div>
