@@ -3,7 +3,7 @@
 <div>
   <a href="#"><img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=dgrezzi&theme=github-compact&hide_border=true&title_color=5c5"/></a>
   <a href="#"><img width=50% src="https://github-readme-stats-p0yk3ivb0-dgrezzi.vercel.app/api?username=dgrezzi&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=5c5&icon_color=8c8"/></a>
-  <a href="#"><img width=40% src="https://github-readme-stats-p0yk3ivb0-dgrezzi.vercel.app/api/top-langs/?username=dgrezzi&layout=compact&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=5b5"/></a>
+  <a href="#"><img width=40% src="https://github-readme-stats-git-master-dgrezzi.vercel.app/api/top-langs/?username=dgrezzi&layout=compact&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=5b5"/></a>
 </div>
 
 <div>
@@ -15,8 +15,6 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
   <a href="https://www.raspberrypi.com/">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>
-  <a href="https://firebase.google.com/?hl=pt-br">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /></a>
   <a href="https://www.arduino.cc/">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></a>
 </div>
@@ -52,6 +50,8 @@
     }" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /></a>
   <a href="https://nodejs.org/">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://firebase.google.com/?hl=pt-br">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><a>
 </div>
 
 <div>
