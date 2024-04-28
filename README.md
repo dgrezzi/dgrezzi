@@ -1,11 +1,6 @@
 # Daniel Grezzi Lima
 
 <div>
-  <a href="#"><img width=50% src="https://github-readme-stats-git-master-dgrezzi.vercel.app/api?username=dgrezzi&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=5c5&icon_color=8c8"/></a>
-  <a href="#"><img width=40% src="https://github-readme-stats-git-master-dgrezzi.vercel.app/api/top-langs/?username=dgrezzi&layout=compact&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=5b5"/></a>
-</div>
-
-<div>
   <h3 align="left">Operational Systems/Plataform</h3>
 
   <a href="https://www.linux.org/">
